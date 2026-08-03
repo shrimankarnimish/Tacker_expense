@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Expense Tracker
 
 A full-stack app for logging shared team expenses, organizing them by category, and viewing monthly spending summaries with budget alerts.
@@ -89,3 +90,6 @@ npm start --prefix server
 ```
 
 Serve the built client separately or add static file hosting to the Express server as needed.
+=======
+# Tacker_expense
+>>>>>>> 7bcdb1ded33b5b1bed566fa8477ca58b6df28799
